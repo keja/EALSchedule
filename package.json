@@ -2,7 +2,7 @@
   "name": "skema",
   "version": "1.0.0",
   "description": "convert untis to icloud",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "async": "^1.5.2",
     "progress": "^1.1.8",
