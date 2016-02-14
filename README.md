@@ -1,7 +1,7 @@
 # EALSchedule
-convert untis schedule
+convert untis schedule and add to iCloud Calendar
 
 i only added the icloud capability, but feel free to add google calendar or other services
 
-Screenshot
+###Screenshot
 ![screenshot](http://cdn.kukento.com/public/eal/screenshot.png?v2)
